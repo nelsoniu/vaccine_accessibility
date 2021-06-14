@@ -17,7 +17,7 @@
 
 ### Scotland
 
-1. The vaccination rate is from gov.scot: [Link] https://www.gov.scot/publications/coronavirus-covid-19-daily-data-for-scotland/.
+1. The vaccination rate is from gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-daily-data-for-scotland/).
 
 ### North Ireland
 
