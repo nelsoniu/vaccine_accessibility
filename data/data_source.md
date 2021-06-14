@@ -13,7 +13,7 @@
 
 ### Wales
 
-??
+1. The lis of vaccination sites from gov.wales: [Link](https://gov.wales/covid-19-vaccination-strategy).
 
 ### Scotland
 
