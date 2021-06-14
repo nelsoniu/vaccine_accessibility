@@ -23,7 +23,7 @@
 
 ### North Ireland
 
-??
+1. The list of vaccination sites: [Link](http://www.healthandcareni.net/pharmacy_rota/Covid_Vaccination_Pharmacies.html).
 
 ---
 
