@@ -32,7 +32,7 @@
 
 ### Hong Kong
 
-1. Map of vaccination sites: [Link](https://www.coronavirus.gov.hk/eng/index.html).
+1. Map of vaccination sites: [Link](https://www.map.gov.hk/gm/map/s/m/communityvaccinationservicesofcovid-19?lg=en).
 
 2. The list of vaccinations sites can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/datasets?s=clinics).
 
