@@ -34,11 +34,15 @@
 
 1. Map of vaccination sites: [Link](https://www.map.gov.hk/gm/map/s/m/communityvaccinationservicesofcovid-19?lg=en).
 
-2. The list of vaccinations sites can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/datasets?s=clinics).
+2. Vaccination sites (private doctors and clinics) can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/datasets?s=clinics). Updated on 15 June 2021. 
+
+3. Vaccination sites (general out-patient clinics) can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/view-dataset?uuid=b9ae4f0e-5834-431d-951a-67ae0e14b37d&sidx=0). Updated on 15 June 2021.
+
+4. Vaccination sites (Community vaccination centres) can be downloaed at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/view-dataset?uuid=103174d1-6060-4820-9b90-da1ecd744501&sidx=0). Updated on 1 May 2021.
 
 ### Singapore
 
-1. The list of vaccination sites from gov.sg: [Link](https://www.vaccine.gov.sg/locations-vcs).
+1. The list of vaccination sites from gov.sg: [Link](https://www.vaccine.gov.sg/locations-vcs). Updated on 17 June 2021. 
 
 ## Relevant work
 
