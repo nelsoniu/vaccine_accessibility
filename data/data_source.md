@@ -34,6 +34,10 @@
 
 1. Map of vaccination sites: [Link](https://www.coronavirus.gov.hk/eng/index.html).
 
+### Singapore
+
+1. The list of vaccination sites from gov.sg: [Link](https://www.vaccine.gov.sg/locations-vcs).
+
 ## Relevant work
 
 1. A recent blog on MOSA's accessibility to vaccination centres in England (data and code on Github): https://data.cdrc.ac.uk/stories/mapping-inequalities-covid-19-vaccine-accessibility
