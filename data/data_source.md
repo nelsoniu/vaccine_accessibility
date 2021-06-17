@@ -21,7 +21,7 @@
 
 2. The list of vaccination sites is accessible at gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-update-on-vaccinations/). 
 
-### North Ireland
+### Northern Ireland
 
 1. The list of vaccination sites (community pharmacies) is from Health and Social Care Northern Ireland (HSCNI): [Link](http://www.healthandcareni.net/pharmacy_rota/Covid_Vaccination_Pharmacies.html).
 
