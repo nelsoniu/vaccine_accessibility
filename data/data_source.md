@@ -19,7 +19,7 @@
 
 1. The vaccination rate is from gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-daily-data-for-scotland/).
 
-2. The list of vaccination sites is accessible at gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-update-on-vaccinations/). 
+2. The list of vaccination sites is accessible at gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-update-on-vaccinations/). Updated on 5 Jan 2021.
 
 ### Northern Ireland
 
