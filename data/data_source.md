@@ -29,7 +29,10 @@
 
 3. The vaccination rate is from HSCNI: [Link](https://covid-19.hscni.net/ni-covid-19-vaccinations-dashboard/).
 
----
+
+### Hong Kong
+
+1. Map of vaccination sites: [Link](https://www.coronavirus.gov.hk/eng/index.html).
 
 ## Relevant work
 
