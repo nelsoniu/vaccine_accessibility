@@ -34,6 +34,8 @@
 
 1. Map of vaccination sites: [Link](https://www.coronavirus.gov.hk/eng/index.html).
 
+2. The list of vaccinations sites can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/datasets?s=clinics).
+
 ### Singapore
 
 1. The list of vaccination sites from gov.sg: [Link](https://www.vaccine.gov.sg/locations-vcs).
