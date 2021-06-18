@@ -25,7 +25,7 @@
 
 1. The list of vaccination sites (community pharmacies) is from Health and Social Care Northern Ireland (HSCNI): [Link](http://www.healthandcareni.net/pharmacy_rota/Covid_Vaccination_Pharmacies.html).
 
-2. The list of vaccinations sites (GP) is from HSCNI: [LINK](https://hscbusiness.hscni.net/services/1816.htm).
+2. The list of vaccinations sites (GP) is from HSCNI: [LINK](https://hscbusiness.hscni.net/services/1816.htm). Updated on 15 June 2021
 
 3. The vaccination rate is from HSCNI: [Link](https://covid-19.hscni.net/ni-covid-19-vaccinations-dashboard/).
 
