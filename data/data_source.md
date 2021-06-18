@@ -44,6 +44,10 @@
 
 1. The list of vaccination sites from gov.sg: [Link](https://www.vaccine.gov.sg/locations-vcs). Updated on 17 June 2021. 
 
+### Shenzhen 
+
+1. The list of vaccination sites: [Link](http://kb.southcn.com/content/2021-03/27/content_192260490.htm). Updated on 27 March 2021.
+
 ## Relevant work
 
 1. A recent blog on MOSA's accessibility to vaccination centres in England (data and code on Github): https://data.cdrc.ac.uk/stories/mapping-inequalities-covid-19-vaccine-accessibility
@@ -54,6 +58,7 @@
 6. Luo, W. and Wang, F. (2003). ‘Measures of spatial accessibility to health care in a GIS environment: Synthesis and a case study in the Chicago region’. *Environment and Planning B: Planning and Design*, 30 (6), pp. 865–884. doi: 10.1068/b29120.
 7. Wang, F. (2018). ‘Inverted Two-Step Floating Catchment Area Method for Measuring Facility Crowdedness’. *Professional Geographer*, 70 (2), pp. 251–260. doi: 10.1080/00330124.2017.1365308.
 8. 
+
 
 
 
