@@ -17,11 +17,19 @@
 
 2. Vaccination rate from gov.wales: [Link](https://gov.wales/covid-19-vaccination-programme-weekly-updates). (Updated Weekly)
 
+3. The list of vaccination sites (GP) is from gov.wales: [Link](https://gov.wales/sites/default/files/statistics-and-research/2019-03/gp-access-wales-2018-annex-tables-144.ods)
+
+4. Wales shapefile by MSOA is from gov.wales: [Link](https://lle.gov.wales/catalogue/item/MiddleLayerSuperOutputAreasMSOA/?lang=en).
+
+5. Wales population by MSOA in 2019 is from ONS: [Link](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/middlesuperoutputareamidyearpopulationestimates).
+
 ### Scotland
 
 1. The vaccination rate is from gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-daily-data-for-scotland/). (Updated daily)
 
 2. The list of vaccination sites is accessible at gov.scot: [Link](https://www.gov.scot/publications/coronavirus-covid-19-update-on-vaccinations/). Updated on 5 Jan 2021.
+
+3. Scotland shapefile by Output Area (OA) with 2011 population data is from National Records of Scotland: [Link](https://www.nrscotland.gov.uk/statistics-and-data/geography/our-products/census-datasets/2011-census/2011-boundaries). 
 
 ### Northern Ireland
 
@@ -31,16 +39,20 @@
 
 3. The vaccination rate is from HSCNI: [Link](https://covid-19.hscni.net/ni-covid-19-vaccinations-dashboard/). (Updated daily)
 
+4. Northern Ireland 2019 population by small areas is from Nothern Ireland Statistics and Research Agency (NRSRA): [Link](https://www.nisra.gov.uk/publications/2019-mid-year-population-estimates-small-areas). 
+
+5. Northern Ireland shapefile by small areas is from NRSRA: [Link](https://www.nisra.gov.uk/publications/small-area-boundaries-gis-format).
+
 
 ### Hong Kong
 
 1. Map of vaccination sites: [Link](https://www.map.gov.hk/gm/map/s/m/communityvaccinationservicesofcovid-19?lg=en).
 
-2. Vaccination sites (private doctors and clinics) can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/datasets?s=clinics). Updated on 15 June 2021. 
+2. Vaccination sites (private doctors and clinics) can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/datasets?s=vaccination). Updated on 15 June 2021. 
 
-3. Vaccination sites (general out-patient clinics) can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/view-dataset?uuid=b9ae4f0e-5834-431d-951a-67ae0e14b37d&sidx=0). Updated on 15 June 2021.
+3. Vaccination sites (general out-patient clinics) can be downloaded at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/datasets?s=vaccination). Updated on 15 June 2021.
 
-4. Vaccination sites (Community vaccination centres) can be downloaed at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/view-dataset?uuid=103174d1-6060-4820-9b90-da1ecd744501&sidx=0). Updated on 1 May 2021.
+4. Vaccination sites (Community vaccination centres) can be downloaed at geodata.gov.uk: [Link](https://geodata.gov.hk/gs/datasets?s=vaccination). Updated on 1 May 2021.
 
 5. Vaccination rate from gov.hk: [Link](https://www.covidvaccine.gov.hk/en/dashboard). (Updated daily)
 
@@ -50,9 +62,10 @@
 
 2. Vaccination rate from Ministry of Health (MOH): [Link](https://www.moh.gov.sg/covid-19/vaccination). Updated on 14 June 2021.
 
-### Shenzhen 
+3. Singapore shapefile by subzone with 2016 Singapore resident population is from gov.sg: [Link](https://data.gov.sg/dataset/singapore-residents-by-subzone-age-group-and-sex-june-2016-gender?resource_id=46bf5767-2056-4113-9e94-6609758dd9f1).
 
-1. The list of vaccination sites: [Link](http://kb.southcn.com/content/2021-03/27/content_192260490.htm). Updated on 27 March 2021.
+4. Singapore shapefile by planning area with 2016 Singapore resident population is from gov.sg: [Link](https://data.gov.sg/dataset/singapore-residents-by-planning-area-and-type-of-dwelling-june-2016?resource_id=171b6f54-0da5-4327-b32a-a4dfbad11e23). 
+
 
 ## Relevant work
 
