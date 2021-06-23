@@ -56,6 +56,8 @@
 
 5. Vaccination rate from gov.hk: [Link](https://www.covidvaccine.gov.hk/en/dashboard). (Updated daily)
 
+6. Hong Kong shapefile by District Council Constituency Area and 2016 population is from Hong Kong Geodata Store: [Link](https://geodata.gov.hk/gs/datasets?s=population)
+
 ### Singapore
 
 1. The list of vaccination sites from gov.sg: [Link](https://www.vaccine.gov.sg/locations-vcs). Updated on 17 June 2021. 
