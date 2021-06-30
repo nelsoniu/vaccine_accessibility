@@ -66,7 +66,7 @@
 
 3. Singapore shapefile by subzone with 2016 Singapore resident population is from gov.sg: [Link](https://data.gov.sg/dataset/singapore-residents-by-subzone-age-group-and-sex-june-2016-gender?resource_id=46bf5767-2056-4113-9e94-6609758dd9f1).
 
-4. Singapore shapefile by planning area with 2016 Singapore resident population is from gov.sg: [Link](https://data.gov.sg/dataset/singapore-residents-by-planning-area-and-type-of-dwelling-june-2016?resource_id=171b6f54-0da5-4327-b32a-a4dfbad11e23). .
+4. Singapore shapefile by planning area with 2016 Singapore resident population is from gov.sg: [Link](https://data.gov.sg/dataset/singapore-residents-by-planning-area-and-type-of-dwelling-june-2016?resource_id=171b6f54-0da5-4327-b32a-a4dfbad11e23).
 
 ### Malaysia
 
