@@ -70,7 +70,12 @@
 
 ### Malaysia
 
-1. The list of vaccination sites from gov.my: [link](https://www.vaksincovid.gov.my/en/ppv/)
+1. The list of vaccination sites from gov.my: [link](https://www.vaksincovid.gov.my/en/ppv/).
+
+
+### India
+
+1. The list of vaccination sites from CoWIN: [link](https://www.cowin.gov.in/home).
 
 
 ## Relevant work
