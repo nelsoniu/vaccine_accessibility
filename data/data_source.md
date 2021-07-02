@@ -2,7 +2,7 @@
 
 ## Data source
 
-### England
+### 1.England
 
 1. The list of vaccination sites is accessible to the guidance of NHS publication: [Link](https://www.england.nhs.uk/coronavirus/publication/vaccination-sites/).
 
@@ -44,7 +44,7 @@
 5. Northern Ireland shapefile by small areas is from NRSRA: [Link](https://www.nisra.gov.uk/publications/small-area-boundaries-gis-format).
 
 
-### Hong Kong
+### 2.Hong Kong
 
 1. Map of vaccination sites: [Link](https://www.map.gov.hk/gm/map/s/m/communityvaccinationservicesofcovid-19?lg=en).
 
@@ -58,7 +58,7 @@
 
 6. Hong Kong shapefile by District Council Constituency Area and 2016 population is from Hong Kong Geodata Store: [Link](https://geodata.gov.hk/gs/datasets?s=population)
 
-### Singapore
+### 3.Singapore
 
 1. The list of vaccination sites from gov.sg: [Link](https://www.vaccine.gov.sg/locations-vcs). Updated on 17 June 2021. 
 
@@ -76,6 +76,10 @@
 ### India
 
 1. The list of vaccination sites from CoWIN: [link](https://www.cowin.gov.in/home).
+
+### Chile
+
+1. The list of vaccination sites from gob.cl: [Link](https://www.gob.cl/yomevacuno/vacunatorios/).
 
 
 ## Relevant work
