@@ -68,7 +68,7 @@
 
 4. Singapore shapefile by planning area with 2016 Singapore resident population is from gov.sg: [Link](https://data.gov.sg/dataset/singapore-residents-by-planning-area-and-type-of-dwelling-june-2016?resource_id=171b6f54-0da5-4327-b32a-a4dfbad11e23).
 
-### Malaysia
+### 5.Malaysia
 
 1. The list of vaccination sites from gov.my: [link](https://www.vaksincovid.gov.my/en/ppv/).
 
@@ -77,7 +77,7 @@
 
 1. The list of vaccination sites from CoWIN: [link](https://www.cowin.gov.in/home).
 
-### Chile
+### 6.Chile
 
 1. The list of vaccination sites from gob.cl: [Link](https://www.gob.cl/yomevacuno/vacunatorios/).
 
