@@ -10,7 +10,6 @@
 
 3. The census and local authority population data can be downloaded at ONS: [Link](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/2011censuspopulationandhouseholdestimatesfortheunitedkingdom).
 
-
 ### Wales
 
 1. The list of vaccination sites from gov.wales: [Link](https://gov.wales/covid-19-vaccination-strategy).
@@ -43,7 +42,6 @@
 
 5. Northern Ireland shapefile by small areas is from NRSRA: [Link](https://www.nisra.gov.uk/publications/small-area-boundaries-gis-format).
 
-
 ### 2.Hong Kong
 
 1. Map of vaccination sites: [Link](https://www.map.gov.hk/gm/map/s/m/communityvaccinationservicesofcovid-19?lg=en).
@@ -72,14 +70,17 @@
 
 1. The list of vaccination sites from gov.my: [link](https://www.vaksincovid.gov.my/en/ppv/).
 
-
-### India
-
-1. The list of vaccination sites from CoWIN: [link](https://www.cowin.gov.in/home).
-
 ### 6.Chile
 
 1. The list of vaccination sites from gob.cl: [Link](https://www.gob.cl/yomevacuno/vacunatorios/).
+
+### 7. Canada 
+
+1. The list of vaccination sites from Government of Canada: [Link](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1).
+
+### India?
+
+1. The list of vaccination sites from CoWIN: [link](https://www.cowin.gov.in/home).
 
 
 ## Relevant work
