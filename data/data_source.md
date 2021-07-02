@@ -78,6 +78,10 @@
 
 1. The list of vaccination sites from Government of Canada: [Link](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1).
 
+### 8. France
+
+1. The list of vaccination sites from data.gouv.fr: [Link](https://www.data.gouv.fr/en/datasets/lieux-de-vaccination-contre-la-covid-19/).
+
 ### India?
 
 1. The list of vaccination sites from CoWIN: [link](https://www.cowin.gov.in/home).
