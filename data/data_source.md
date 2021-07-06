@@ -70,6 +70,12 @@
 
 1. The list of vaccination sites from gov.my: [link](https://www.vaksincovid.gov.my/en/ppv/).
 
+2. Malaysia boundaries by administrative district 0-2 level from HDX: [Link](https://data.humdata.org/dataset/malaysia-administrative-level-0-2-boundaries). 
+
+3. Malaysia population (2016-2018) by adminstrative district 0-2 from DOSM.gob.my: [Link](https://www.dosm.gov.my/v1/index.php?r=column/cone&menu_id=dC9JU2RhZk9HNmxQS3hTOStuMVVLdz09)
+
+
+
 ### 6.Chile
 
 1. The list of vaccination sites from gob.cl: [Link](https://www.gob.cl/yomevacuno/vacunatorios/).
