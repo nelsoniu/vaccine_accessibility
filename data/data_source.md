@@ -82,6 +82,8 @@
 
 1. The list of vaccination sites from gob.cl: [Link](https://www.gob.cl/yomevacuno/vacunatorios/).
 
+2. Chile boundaries by communes from bcn.cl: [Link](https://www.bcn.cl/siit/mapas_vectoriales/index_html).
+
 ### 7. Canada 
 
 1. The list of vaccination sites from Government of Canada: [Link](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1).
@@ -89,6 +91,8 @@
 ### 8. France
 
 1. The list of vaccination sites from data.gouv.fr: [Link](https://www.data.gouv.fr/en/datasets/lieux-de-vaccination-contre-la-covid-19/).
+
+2. France boundaries from European Environmental Agency:[Link](https://www.eea.europa.eu/data-and-maps/data/eea-reference-grids-2/gis-files/france-shapefile).
 
 ### India?
 
