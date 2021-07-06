@@ -74,6 +74,8 @@
 
 3. Malaysia population (2016-2018) by adminstrative district 0-2 from DOSM.gob.my: [Link](https://www.dosm.gov.my/v1/index.php?r=column/cone&menu_id=dC9JU2RhZk9HNmxQS3hTOStuMVVLdz09)
 
+4. Vaccination rate from covidvax:[link](https://covidvax.live/location/mys). Updated in real time. 
+
 
 
 ### 6.Chile
