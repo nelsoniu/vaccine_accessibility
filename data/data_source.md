@@ -88,6 +88,8 @@
 
 1. The list of vaccination sites from Government of Canada: [Link](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1).
 
+2. The list of pharmacy https://www.ab.bluecross.ca/news/covid-immunization-program-listing.php
+
 ### 8. France
 
 1. The list of vaccination sites from data.gouv.fr: [Link](https://www.data.gouv.fr/en/datasets/lieux-de-vaccination-contre-la-covid-19/).
