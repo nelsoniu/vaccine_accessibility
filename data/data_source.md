@@ -77,7 +77,6 @@
 4. Vaccination rate from covidvax:[link](https://covidvax.live/location/mys). Updated in real time. 
 
 
-
 ### 6.Chile
 
 1. The list of vaccination sites from gob.cl: [Link](https://www.gob.cl/yomevacuno/vacunatorios/).
@@ -88,7 +87,9 @@
 
 1. The list of vaccination sites from Government of Canada: [Link](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html#a1).
 
-2. The list of pharmacy https://www.ab.bluecross.ca/news/covid-immunization-program-listing.php
+2. The list of pharmacies in Alberta: [Link](https://www.ab.bluecross.ca/news/covid-immunization-program-listing.php).
+
+3. The list of pharmacis in Ontario: [Link](https://covid-19.ontario.ca/vaccine-locations). 
 
 ### 8. France
 
